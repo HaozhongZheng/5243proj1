@@ -1,7 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAMES HERE"
-date: "`r Sys.Date()`"
+title: "To be or not to be? Does Sophie's World describe philosopher correctly?"
+author: "Haozhong Zheng"
 site: bookdown::bookdown_site
 ---
 
