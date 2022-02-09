@@ -23,9 +23,11 @@ Interestingly, positive word seems to appear more frequently than negative words
 ![](figs/Sentimental Analysis/Sentimental.png){width=60%}
 </center>
 
+From the above plot, positive emotion such as trust is grouped with emotions with the same direction, like joy and anticipation. The same comes with negative emotions. 
+
 
 <center>
 ![](figs/Sentimental Analysis/Sentimental_Cluster.png){width=60%}
 </center>
 
-The cluster plot gives us the cluster of emotions of philosophers. Most of the philosopher were in one group except for Nietzsche, who is famous for criticizing European religion. The emotion of him is obviously different from the others.
+The cluster plot gives us the cluster of emotions of philosophers. Most of the philosopher were in one group except for **Nietzsche**, who is famous for criticizing European religion. Most of his word may contain negative emotions, which may make him obviously different from the others.
