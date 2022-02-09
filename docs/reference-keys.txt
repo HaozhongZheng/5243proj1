@@ -1,2 +1,4 @@
 introduction
 sentimental-analysis
+emotions-from-philosophers
+cluster-plot
