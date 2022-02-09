@@ -12,5 +12,6 @@ before_chapter_script: "_common.R"
 rmd_files: [
   # Part: Introduction
   'index.Rmd', # must be first chapter
-  'Sentimental_Analysis.Rmd'
+  'Sentimental_Analysis.Rmd',
+  'Topic_Modeling.Rmd'
   ]
