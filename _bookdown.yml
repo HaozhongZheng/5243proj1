@@ -14,5 +14,6 @@ rmd_files: [
   'index.Rmd', # must be first chapter
   'Sentimental_Analysis.Rmd',
   'Topic_Modeling.Rmd',
-  'Word_Cloud.Rmd'
+  'Word_Cloud.Rmd',
+  'Conclusion.Rmd'
   ]

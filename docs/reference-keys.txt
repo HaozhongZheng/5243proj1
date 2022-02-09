@@ -12,3 +12,4 @@ locke
 kant
 hegel
 marx
+conclusion
