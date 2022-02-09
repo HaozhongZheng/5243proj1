@@ -1,0 +1,166 @@
+---
+site: bookdown::bookdown_site
+---
+
+# Word Cloud
+
+## Plato
+<center>
+![](figs/plato.jpg){width=60%}
+</center>
+
+The word cloud of Plato shows as below:
+
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+
+<body>
+<div class="row">
+  <div class="column">
+  <img src="figs/Word Cloud/Plato.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="figs/Word Cloud/Plato_Sophie.png" alt="Snow" style="width:100%">
+  </div>
+  </div>
+</body>
+
+We can see some similarities:
+
+* **People** and **man** are mostly mentioned as well as **body** and **soul**.
+
+* **Socrates** appears many times since Plato is the student of him.
+
+
+
+## Aristotle
+<center>
+![](figs/aristotle.jpg){width=60%}
+</center>
+
+The word cloud of Aristotle shows as below:
+<body>
+<div class="row">
+  <div class="column">
+  <img src="figs/Word Cloud/Aristotle.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="figs/Word Cloud/Aristotle_Sophie.png" alt="Snow" style="width:100%">
+  </div>
+  </div>
+</body>
+
+We can see some similarities:
+
+* **Man** and **animal** appear more frequently.
+
+* What **part**s of **nature** and how they **form**ed is Aristotle's main focus.
+
+## Locke
+<center>
+![](figs/locke.jpg){width=60%}
+</center>
+
+The word cloud of John Locke shows as below:
+<body>
+<div class="row">
+  <div class="column">
+  <img src="figs/Word Cloud/Locke.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="figs/Word Cloud/Locke_Sophie.png" alt="Snow" style="width:100%">
+  </div>
+  </div>
+</body>
+
+We can see some similarities:
+
+* **idea** and **reason** take up great percentage of Locke's word.
+
+* **mind** also appears more frequently than others.
+
+## Kant
+
+<center>
+![](figs/kant.jpg){width=60%}
+</center>
+
+The word cloud of Kant shows as below:
+<body>
+<div class="row">
+  <div class="column">
+  <img src="figs/Word Cloud/Kant.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="figs/Word Cloud/Kant_Sophie.png" alt="Snow" style="width:100%">
+  </div>
+  </div>
+</body>
+
+We can see some similarities:
+
+* **reason** is the most frequent word of Kant.
+
+* **experience** also appears in both of the data set.
+
+## Hegel
+
+<center>
+![](figs/hegel.jpg){width=60%}
+</center>
+
+The word cloud of Hegel shows as below:
+<body>
+<div class="row">
+  <div class="column">
+  <img src="figs/Word Cloud/Hegel.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="figs/Word Cloud/Hegel_Sophie.png" alt="Snow" style="width:100%">
+  </div>
+  </div>
+</body>
+
+We can see some similarities:
+
+* **spirt** appear to be more frequent than others.
+
+## Marx
+
+<center>
+![](figs/marx.jpg){width=60%}
+</center>
+
+The word cloud of Marx shows as below:
+
+<body>
+<div class="row">
+  <div class="column">
+  <img src="figs/Word Cloud/Marx.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="figs/Word Cloud/Marx_Sophie.png" alt="Snow" style="width:100%">
+  </div>
+  </div>
+</body>
+
+We can see some similarities:
+

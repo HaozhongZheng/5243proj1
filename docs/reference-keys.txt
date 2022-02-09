@@ -5,3 +5,10 @@ cluster-plot
 topic-modeling
 topic-generated-by-lda
 cluster-plot-1
+word-cloud
+plato
+aristotle
+locke
+kant
+hegel
+marx
