@@ -5,4 +5,37 @@ site: bookdown::bookdown_site
 ---
 
 # Introduction
-In this project
+*Sophie's World* is the novel from Jostein Gaarder. It is one of the most famous novels that introduce the history of philosophy.
+
+<center>
+![](figs/Sophies World.jpg){width=60%}
+</center>
+
+In this project, I choose some of the most famous philosophers listed as follows:
+
+<table>
+<tr>
+<td>Aristotle</td>
+<td>Derrida</td>
+<td>Hegel</td>
+<td>Heidegger</td>
+</tr>
+<tr>
+<td>Kant</td>
+<td>Locke</td>
+<td>Marx</td>
+<td>Nietzsche</td>
+</tr>
+<tr>
+<td>Plato</td>
+<td>Quine</td>
+<td>Russel</td>
+<td>Smith</td>
+</tr>
+<tr>
+<td>Wittgenstein</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
