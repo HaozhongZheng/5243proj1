@@ -39,3 +39,5 @@ In this project, I choose some of the most famous philosophers listed as follows
 <td></td>
 </tr>
 </table>
+
+In the first two section, I will conduct the sentimental analysis and topic modeling to these philosophers' word to see the cluster plot of them. After that, I choose six chapters from *Sophie's World*, each introduced a philosopher. (**Plato**, **Aristotle**, **Locke**, **Kant**, **Hegel**, **Marx**). I generate the word cloud using philosophy data and text data from *Sophie's World* to see if there are any similarities or differences.
