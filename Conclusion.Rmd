@@ -4,3 +4,4 @@ site: bookdown::bookdown_site
 
 # Conclusion
 
+In this project I first conduct sentiment analysis and topic modeling to cluster some of the famous philosophers I choose. Then I compare the data generated online to the text data from the book, *Sophie's World*, using word cloud. I found out, indeed, the book capture most of the important information and essence from philosophers. No wonder it is one of the most famous philosophy books in the world.
