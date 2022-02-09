@@ -1,7 +1,31 @@
 ---
-title: "Sentimental_Analysis"
 author: "Haozhong Zheng"
 site: bookdown::bookdown_site
 ---
 
 # Sentimental Analysis
+
+## Emotions from philosophers
+
+I conduct the sentimental analysis and find the following histogram from the philosophers I choose.
+
+<center>
+![](figs/Sentimental Analysis/All_Philosopher_Sentimental.png){width=60%}
+</center>
+
+From the plot, trust is the emotion that appear the most in this groups of philosophers. This explain why trust is one of the most important motions to the development of world and society. 
+
+Interestingly, positive word seems to appear more frequently than negative words. This is also comes with our recognition that philosophy gives us meaningful and enlightening message. 
+
+## Cluster plot
+
+<center>
+![](figs/Sentimental Analysis/Sentimental.png){width=60%}
+</center>
+
+
+<center>
+![](figs/Sentimental Analysis/Sentimental_Cluster.png){width=60%}
+</center>
+
+The cluster plot gives us the cluster of emotions of philosophers. Most of the philosopher were in one group except for Nietzsche, who is famous for criticizing European religion. The emotion of him is obviously different from the others.
